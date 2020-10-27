@@ -9,7 +9,7 @@ This is basic js example project.
 4. Gives total number of players having rank <= 5. to highest rank entered
 
 My development environment:
-Mac book pro.
-Visual Studio Code 1.50.1
-Google chrome 87.0
-Using live-server to reflect the code-changes in real time, installation instructions here : https://gist.github.com/donmccurdy/20fb112949324c92c5e8
+1. Mac book pro.
+2. Visual Studio Code 1.50.1
+3. Google chrome 87.0
+4. Using live-server to reflect the code-changes in real time, installation instructions here : https://gist.github.com/donmccurdy/20fb112949324c92c5e8
